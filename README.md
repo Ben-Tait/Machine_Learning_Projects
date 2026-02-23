@@ -19,7 +19,7 @@ A collection of Machine Learning projects and notebooks built while learning ML 
 
 | # | Project | Technique | Dataset | Notebook |
 |---|---------|-----------|---------|----------|
-| 1 | Study Hours vs Scores | Linear Regression | Custom | [View]() |
+| 1 | Study Hours vs Scores | Linear Regression | Custom | [View](https://colab.research.google.com/drive/18ewhLNerlQj1lrXGTOHrgmRkNDecvcSG#scrollTo=GsnLu11ytxk1) |
 
 > This table will be updated as new projects are added.
 
