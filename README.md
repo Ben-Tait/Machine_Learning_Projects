@@ -40,7 +40,7 @@ All notebooks are built on **Google Colab** and can be run directly in the brows
 ## Topics Planned
 
 - [x] Linear Regression
-- [ ] Multiple Linear Regression
+- [x] Multiple Linear Regression
 - [ ] Polynomial Regression
 - [ ] Logistic Regression
 - [ ] Decision Trees
