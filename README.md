@@ -20,6 +20,8 @@ A collection of Machine Learning projects and notebooks built while learning ML 
 | # | Project | Technique | Dataset | Notebook |
 |---|---------|-----------|---------|----------|
 | 1 | Study Hours vs Scores | Linear Regression | Custom | [View](https://colab.research.google.com/drive/18ewhLNerlQj1lrXGTOHrgmRkNDecvcSG#scrollTo=GsnLu11ytxk1) |
+| 2 | Employee Salary Prediction | Multiple Linear Regression | Custom | [View](https://colab.research.google.com/drive/1G_9rWnNKfegWZtm4zQUKdSn3nnte7QMD?usp=sharing) |
+
 
 > This table will be updated as new projects are added.
 
