@@ -22,6 +22,7 @@ A collection of Machine Learning projects and notebooks built while learning ML 
 | 1 | Study Hours vs Scores | Linear Regression | Custom | [View](https://colab.research.google.com/drive/18ewhLNerlQj1lrXGTOHrgmRkNDecvcSG#scrollTo=GsnLu11ytxk1) |
 | 2 | Employee Salary Prediction | Multiple Linear Regression | Custom | [View](https://colab.research.google.com/drive/1G_9rWnNKfegWZtm4zQUKdSn3nnte7QMD?usp=sharing) |
 | 3 | Crop Yield Prediction | Polynomial Regression | Custom | [View](https://colab.research.google.com/drive/1ie3iR081iws1aJZgvr5T5YT_mv8kH8Yd?usp=sharing) |
+| 4 | Ice Cream Sales Prediction | Support Vector Regresssion | Custom | [View](https://colab.research.google.com/drive/1QO_2n9RYikHTvm-6FIuY1x0riSbkAmIK?usp=sharing) |
 
 
 
@@ -44,6 +45,7 @@ All notebooks are built on **Google Colab** and can be run directly in the brows
 - [x] Linear Regression
 - [x] Multiple Linear Regression
 - [x] Polynomial Regression
+- [x] Support Vector Regression
 - [ ] Logistic Regression
 - [ ] Decision Trees
 - [ ] Random Forests
